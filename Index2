@@ -1,0 +1,51 @@
+<!--This is my Personal Website-->
+  <!DOCTYPE html>
+<html>
+  <head>
+    <title>Matthew Thomas- Wicher</title>
+    <link href="https://fonts.googleapis.com/css?family=Bangers" rel="stylesheet">
+      <style>
+        
+        body{
+          background:url("http://www.dentons.com/~/media/Images/Website/Background%20Images/Offices/Washington%20DC/washington_dc_opt_02.jpg");
+          background-size:cover;
+          background-position:center;
+          text-align:center;
+          font-family: 'Bangers', cursive;
+          font-size:46px;}
+        
+        p{color:black;
+          font-size:48px;
+          text-shadow: 4px 4px 4px orange;}
+          .img-circle {
+           border-radius: 50%;
+                    }
+          h2{text-shadow: 4px 4px 4px orange;
+          font-size:30}
+              input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: orange;
+      color: white;
+    }
+   </style>
+        </head>
+        <p>Matthew Thomas- Wicher</p>
+      <body>
+        <img class="img-circle" img src="http://i.imgur.com/4tc33Ob.png?1"width="250" height="250">
+        <p>Hey, I'm Matt and this is my Personal Website!!!</p>
+        <h2>Send me an Email<h2>
+        <input type="Email" Placeholder="Your Email">
+        <input type="Submit">
+      </body>
+        </html>
+        
+        
+       
+
+        
+
+          
